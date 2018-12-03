@@ -19,6 +19,8 @@ body {
 
 .robot {
   width: 320px;
+  display: inline-block;
+  position: relative;
 }
 
 .robot-body {
